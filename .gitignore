@@ -1,0 +1,5 @@
+#.gitignore
+crawling/__pycache__/
+__pycache__/
+pythonVenv/
+venv/
